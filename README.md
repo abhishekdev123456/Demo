@@ -1,3 +1,3 @@
 # Demo
-For testing prupose
+For testing purpose
 This is latest
